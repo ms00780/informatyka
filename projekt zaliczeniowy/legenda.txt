@@ -1,0 +1,11 @@
+            Totalizator - gra w loterii
+
+    Dostępne gry:
+
+Lotto - Gra polegająca na wylosowaniu 6 liczb z przedziału od 1 do 49
+
+Multi Multi - gra polegająca na wylosowaniu 20 liczb z przedziału od 1 do 80
+
+Euro Jackpot - gra polegająca na wylosowaniu 5 głównyczh liczb w przedziale od 1 do 50 i 2 "Euro" liczb w przedziale od 1 do 12
+
+Zapraszamy do udziału!
